@@ -1,2 +1,6 @@
 apps
+
 game added
+
+movies list
+
